@@ -1,4 +1,7 @@
-postal.js
-=========
+# postal.js
 
-JavaScript pub/sub library supporting some advanced subscription features, plus message capture and replay
+## These aren't the droids you're looking for...
+
+### NEW LOCATION: [https://github.com/postaljs/postal.js](https://github.com/postaljs/postal.js)
+
+####postal has it's own [github organization](https://github.com/postaljs) now
